@@ -5,7 +5,7 @@ metadata:
   label: unisockets_public
 spec:
   urls:
-    - wss://signaler.webnetes.dev
+    - wss://hub.bugout.link
   retryAfter: 1000
 ---
 apiVersion: schema.webnetes.dev/v1alpha1
