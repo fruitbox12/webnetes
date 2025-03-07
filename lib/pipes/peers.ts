@@ -2,7 +2,7 @@ import {
   ExtendedRTCConfiguration,
   SignalingClient,
   Transporter,
-} from "@alphahorizonio/unisockets";
+} from "@pojntfx/unisockets";
 import { Mutex, withTimeout } from "async-mutex";
 import { ClosedError } from "../errors/closed";
 import { CommunicationTimeoutError } from "../errors/communication-timeout";
