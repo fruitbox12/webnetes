@@ -1,4 +1,4 @@
-import { SignalingServer } from "@alphahorizonio/unisockets";
+import { SignalingServer } from "@pojntfx/unisockets";
 import getPort from "get-port";
 import { ClosedError } from "../errors/closed";
 import { NetworkInterface } from "./network-interface";
