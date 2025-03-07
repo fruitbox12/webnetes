@@ -4,7 +4,7 @@ import {
   SignalingClient,
   Sockets,
   Transporter,
-} from "@alphahorizonio/unisockets";
+} from "@pojntfx/unisockets";
 import { ClosedError } from "../errors/closed";
 import { AliasDoesNotExistError } from "../errors/alias-does-not-exist";
 import Emittery from "emittery";
